@@ -1,2 +1,2 @@
 # Newbie-projects-py
-This are projects that are created by me, to put on practice what I have learned on Python.
+These are projects based on the knowledge adquired throughout my journy on learning python. Knowledge I keep enhancing everyday on studying and practicing. 
